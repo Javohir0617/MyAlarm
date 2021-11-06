@@ -1,0 +1,6 @@
+com/example/myalarm/BuildConfig.java
+ com.example.myalarm.BuildConfig
+com/example/myalarm/databinding/ActivityDestinationActvityBinding.java
+ com.example.myalarm.databinding.ActivityDestinationActvityBinding
+com/example/myalarm/databinding/ActivityMainBinding.java
+ com.example.myalarm.databinding.ActivityMainBinding
